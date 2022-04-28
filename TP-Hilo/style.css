@@ -1,0 +1,23 @@
+div{
+    width: 30vw;
+    height: auto;
+    margin: auto;
+    margin-top: 17vw;
+    background-image: url(img/EuYGDt_XAAEjUpI.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: dashed;
+}
+
+body{
+    background-image:url(img/da44jqaoxso01.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    color: red;
+    text-shadow: 1px 1px 1px black;
+}
